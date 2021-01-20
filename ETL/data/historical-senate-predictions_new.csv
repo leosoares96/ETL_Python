@@ -1,0 +1,208 @@
+,state,year,candidate,forecast_prob,result,winflag
+0,Alabama,2008,Sessions,1.0,Win,1
+1,Alabama,2008,Figures,0.0,Lose,0
+2,Alabama,2010,Shelby,1.0,Win,1
+3,Alabama,2010,Barnes,0.0,Loss,0
+4,Alaska,2008,Begich,1.0,Win,1
+5,Alaska,2008,Stevens,0.0,Lose,0
+6,Alaska,2010,Miller,0.71,Lose,0
+7,Alaska,2010,Murkowski,0.21,Win,1
+8,Alaska,2010,McAdams,0.08,Loss,0
+9,Arizona,2010,Glassman,1.0,Win,1
+10,Arizona,2010,McCain,0.0,Loss,0
+11,Arizona,2012,Flake,0.96,Win,1
+12,Arizona,2012,Carmona,0.04,Loss,0
+13,Arkansas,2008,Pryor,1.0,Win,1
+14,Arkansas,2010,Boozman,1.0,Win,1
+15,Arkansas,2010,Lincoln,0.0,Loss,0
+16,California,2012,Feinstein,1.0,Win,1
+17,California,2012,Emken,0.0,Loss,0
+18,Colorado,2008,M. Udall,1.0,Win,1
+19,Colorado,2008,Schaeffer,0.0,Lose,0
+20,Colorado,2010,Buck,0.65,Loss,0
+21,Colorado,2010,Bennett,0.35,Win,1
+22,Connecticut,2010,Blumenthal,1.0,Win,1
+23,Connecticut,2010,McMahon,0.0,Loss,0
+24,Connecticut,2012,Murphy,0.96,Win,1
+25,Connecticut,2012,McMahon,0.04,Loss,0
+26,Delaware,2008,Biden,1.0,Win,1
+27,Delaware,2008,O'Connell,0.0,Lose,0
+28,Delaware,2010,Coons,1.0,Win,1
+29,Delaware,2010,O'Donnell,0.0,Loss,0
+30,Delaware,2012,Carper,1.0,Win,1
+31,Delaware,2012,Wade,0.0,Loss,0
+32,Florida,2010,Rubio,0.97,Win,1
+33,Florida,2010,Crist,0.03,Loss,0
+34,Florida,2010,Meeks,0.0,Loss,0
+35,Florida,2012,Nelson,1.0,Win,1
+36,Florida,2012,Mack,0.0,Loss,0
+37,Georgia,2008,Chambilss,0.88,Win,1
+38,Georgia,2008,Martin,0.12,Lose,0
+39,Georgia,2010,Isakson,1.0,Win,1
+40,Georgia,2010,Thurmond,0.0,Loss,0
+41,Hawaii,2010,Inouye,1.0,Win,1
+42,Hawaii,2010,Cavasso,0.0,Loss,0
+43,Hawaii,2012,Hirono,1.0,Win,1
+44,Hawaii,2012,Lingle,0.0,Loss,0
+45,Idaho,2008,Risch,1.0,Win,1
+46,Idaho,2008,LaRocco,0.0,Lose,0
+47,Idaho,2010,Crapo,1.0,Win,1
+48,Idaho,2010,Sullivan,0.0,Loss,0
+49,Illinois,2008,Durbin,1.0,Win,1
+50,Illinois,2008,Sauerberg,0.0,Lose,0
+51,Illinois,2010,Kirk,0.69,Win,1
+52,Illinois,2010,Giannoulias,0.31,Loss,0
+53,Indiana,2010,Coats,1.0,Win,1
+54,Indiana,2010,Ellsworth,0.0,Loss,0
+55,Indiana,2012,Donnelly,0.7,Win,1
+56,Indiana,2012,Lingle,0.3,Loss,0
+57,Iowa,2008,Harkin,1.0,Win,1
+58,Iowa,2008,Reed,0.0,Lose,0
+59,Iowa,2010,Grassley,1.0,Win,1
+60,Iowa,2010,Conlin,0.0,Loss,0
+61,Kansas,2008,Roberts,1.0,Win,1
+62,Kansas,2008,Slattery,0.0,Lose,0
+63,Kansas,2010,Moran,1.0,Win,1
+64,Kansas,2010,Johnston,0.0,Loss,0
+65,Kentucky,2008,McConnell,0.92,Win,1
+66,Kentucky,2008,Lunsford,0.08,Lose,0
+67,Kentucky,2010,Paul,1.0,Win,1
+68,Kentucky,2010,Conway,0.0,Loss,0
+69,Louisiana,2008,Landireu,1.0,Win,1
+70,Louisiana,2008,Kennedy,0.0,Lose,0
+71,Louisiana,2010,Vitter,1.0,Win,1
+72,Louisiana,2010,Melancon,0.0,Loss,0
+73,Maine,2008,Collins,1.0,Win,1
+74,Maine,2008,Allen,0.0,Lose,0
+75,Maine,2012,King,0.93,Win,1
+76,Maine,2012,Summers,0.06,Loss,0
+77,Maine,2012,Dill,0.01,Loss,0
+78,Maryland,2010,Murkowski,1.0,Win,1
+79,Maryland,2010,Wargotz,0.0,Loss,0
+80,Maryland,2012,Cardin,1.0,Win,1
+81,Maryland,2012,Bongino,0.0,Loss,0
+82,Massachusetts,2008,Kerry,1.0,Win,1
+83,Massachusetts,2008,Beatty,0.0,Lose,0
+84,Massachusetts,2012,Warren,0.94,Win,1
+85,Massachusetts,2012,Brown,0.06,Loss,0
+86,Michigan,2008,Levin,1.0,Win,1
+87,Michigan,2008,Hoogendyk,0.0,Lose,0
+88,Michigan,2012,Stabenow,1.0,Win,1
+89,Michigan,2012,Hoekstra,0.0,Loss,0
+90,Minnesota,2008,Franken,0.52,Win,1
+91,Minnesota,2008,Coleman,0.48,Lose,0
+92,Minnesota,2012,Klobuchar,1.0,Win,1
+93,Minnesota,2012,Bills,0.0,Loss,0
+94,Mississippi,2008,Cochran,1.0,Win,1
+95,Mississippi,2008,Fleming,0.0,Lose,0
+96,Mississippi,2012,Wicker,1.0,Win,1
+97,Mississippi,2012,Gore,0.0,Loss,0
+98,Mississippi (special election),2008,Wicker,0.94,Win,1
+99,Mississippi (special election),2008,Musgrove,0.06,Lose,0
+100,Missouri,2010,Blunt,0.99,Win,1
+101,Missouri,2010,Carnahan,0.01,Loss,0
+102,Missouri,2012,McCaskill,0.98,Win,1
+103,Missouri,2012,Akin,0.02,Loss,0
+104,Montana,2008,Baucus,1.0,Win,1
+105,Montana,2008,Kelleher,0.0,Lose,0
+106,Montana,2012,Rehberg,0.66,Win,1
+107,Montana,2012,Tester,0.34,Loss,0
+108,Nebraska,2008,Johanns,0.99,Win,1
+109,Nebraska,2008,Kleeb,0.01,Lose,0
+110,Nebraska,2012,Fischer,0.99,Win,1
+111,Nebraska,2012,Kerrey,0.01,Loss,0
+112,Nevada,2010,Angle,0.83,Loss,0
+113,Nevada,2010,Reid,0.17,Win,1
+114,Nevada,2012,Heller,0.83,Win,1
+115,Nevada,2012,Berkeley,0.17,Loss,0
+116,New Hampshire,2008,Shaheen,0.99,Win,1
+117,New Hampshire,2008,Sununu,0.01,Lose,0
+118,New Hampshire,2010,Ayotte,1.0,Win,1
+119,New Hampshire,2010,Hodes,0.0,Loss,0
+120,New Jersey,2008,Lautenberg,1.0,Win,1
+121,New Jersey,2008,Zimmer,0.0,Lose,0
+122,New Jersey,2012,Menendez,1.0,Win,1
+123,New Jersey,2012,Kyrillos,0.0,Loss,0
+124,New Mexico,2008,T. Udall,1.0,Win,1
+125,New Mexico,2008,Pearce,0.0,Lose,0
+126,New Mexico,2012,Heinrich,0.97,Win,1
+127,New Mexico,2012,Wilson,0.03,Loss,0
+128,New York,2010,Schumer,1.0,Win,1
+129,New York,2010,Townsend,0.0,Loss,0
+130,New York,2012,Gillibrand,1.0,Win,1
+131,New York,2012,Long,0.0,Loss,0
+132,New York (special election),2010,Gillibrand,1.0,Win,1
+133,New York (special election),2010,DioGuardi,0.0,Loss,0
+134,North Carolina,2008,Hagan,0.88,Win,1
+135,North Carolina,2008,Dole,0.12,Lose,0
+136,North Carolina,2010,Burr,1.0,Win,1
+137,North Carolina,2010,Marshall,0.0,Loss,0
+138,North Dakota,2010,Hoeven,1.0,Win,1
+139,North Dakota,2010,Potter,0.0,Loss,0
+140,North Dakota,2012,Berg,0.92,Loss,0
+141,North Dakota,2012,Heitkamp,0.08,Win,1
+142,Ohio,2010,Portman,1.0,Win,1
+143,Ohio,2010,Fisher,0.0,Loss,0
+144,Ohio,2012,Brown,0.97,Win,1
+145,Ohio,2012,Mandel,0.03,Loss,0
+146,Oklahoma,2008,Inhofe,1.0,Win,1
+147,Oklahoma,2008,Rice,0.0,Lose,0
+148,Oklahoma,2010,Coburn,1.0,Win,1
+149,Oklahoma,2010,Rogers,0.0,Loss,0
+150,Oregon,2008,Merkley,0.92,Win,1
+151,Oregon,2008,Smith,0.08,Lose,0
+152,Oregon,2010,Wyden,1.0,Win,1
+153,Oregon,2010,Huffman,0.0,Loss,0
+154,Pennsylvania,2010,Toomey,0.97,Win,1
+155,Pennsylvania,2010,Sestak,0.03,Loss,0
+156,Pennsylvania,2012,Casey,0.99,Win,1
+157,Pennsylvania,2012,Smith,0.01,Loss,0
+158,Rhode Island,2008,Reed,1.0,Win,1
+159,Rhode Island,2008,Tingle,0.0,Lose,0
+160,Rhode Island,2012,Whitehouse,1.0,Win,1
+161,Rhode Island,2012,Hinkley,0.0,Loss,0
+162,South Carolina,2008,Graham,1.0,Win,1
+163,South Carolina,2008,Conley,0.0,Lose,0
+164,South Carolina,2010,DeMint,1.0,Win,1
+165,South Carolina,2010,Greene,0.0,Loss,0
+166,South Dakota,2008,Johnson,1.0,Win,1
+167,South Dakota,2008,Dykstra,0.0,Lose,0
+168,South Dakota,2010,Thune,1.0,Win,1
+169,Tennessee,2008,Alexander,1.0,Win,1
+170,Tennessee,2008,Tuke,0.0,Lose,0
+171,Tennessee,2012,Corker,1.0,Win,1
+172,Tennessee,2012,Clayton,0.0,Loss,0
+173,Texas,2008,Cornyn,1.0,Win,1
+174,Texas,2008,Noriega,0.0,Lose,0
+175,Texas,2012,Cruz,1.0,Win,1
+176,Texas,2012,Sadler,0.0,Loss,0
+177,Utah,2010,Lee,1.0,Win,1
+178,Utah,2010,Granato,0.0,Loss,0
+179,Utah,2012,Hatch,1.0,Win,1
+180,Utah,2012,Lowell,0.0,Loss,0
+181,Vermont,2010,Leahy,1.0,Win,1
+182,Vermont,2010,Britton,0.0,Loss,0
+183,Vermont,2012,Sanders,1.0,Win,1
+184,Vermont,2012,MacGovern,0.0,Loss,0
+185,Virginia,2008,Warner,1.0,Win,1
+186,Virginia,2008,Gilmore,0.0,Lose,0
+187,Virginia,2012,Kaine,0.88,Win,1
+188,Virginia,2012,Allen,0.12,Loss,0
+189,Washington,2010,Murray,0.8,Win,1
+190,Washington,2010,Rossi,0.2,Loss,0
+191,Washington,2012,Cantwell,0.88,Win,1
+192,Washington,2012,Baumgartner,0.12,Loss,0
+193,West Virginia,2010,Manchin,0.89,Win,1
+194,West Virginia,2010,Raese,0.11,Loss,0
+195,West Virginia,2012,Manchin,0.92,Win,1
+196,West Virginia,2012,Raese,0.08,Loss,0
+197,Wisconsin,2010,Johnson,0.97,Win,1
+198,Wisconsin,2010,Feingold,0.03,Loss,0
+199,Wisconsin,2012,Thompson,0.79,Win,1
+200,Wisconsin,2012,Baldwin,0.21,Loss,0
+201,Wyoming,2008,Enzi,1.0,Win,1
+202,Wyoming,2008,Rothfuss,0.0,Lose,0
+203,Wyoming,2012,Barrasso,1.0,Win,1
+204,Wyoming,2012,Chestnut,0.0,Loss,0
+205,Wyoming (special election),2008,Barrasso,1.0,Win,1
+206,Wyoming (special election),2008,Carter,0.0,Lose,0
